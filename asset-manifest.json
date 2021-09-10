@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/itRex/static/css/main.24c2fbf1.chunk.css",
+    "main.js": "/itRex/static/js/main.30041236.chunk.js",
+    "main.js.map": "/itRex/static/js/main.30041236.chunk.js.map",
+    "runtime-main.js": "/itRex/static/js/runtime-main.a40a7b07.js",
+    "runtime-main.js.map": "/itRex/static/js/runtime-main.a40a7b07.js.map",
+    "static/js/2.20510252.chunk.js": "/itRex/static/js/2.20510252.chunk.js",
+    "static/js/2.20510252.chunk.js.map": "/itRex/static/js/2.20510252.chunk.js.map",
+    "static/js/3.e41b55a6.chunk.js": "/itRex/static/js/3.e41b55a6.chunk.js",
+    "static/js/3.e41b55a6.chunk.js.map": "/itRex/static/js/3.e41b55a6.chunk.js.map",
+    "index.html": "/itRex/index.html",
+    "static/css/main.24c2fbf1.chunk.css.map": "/itRex/static/css/main.24c2fbf1.chunk.css.map",
+    "static/js/2.20510252.chunk.js.LICENSE.txt": "/itRex/static/js/2.20510252.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a40a7b07.js",
+    "static/js/2.20510252.chunk.js",
+    "static/css/main.24c2fbf1.chunk.css",
+    "static/js/main.30041236.chunk.js"
+  ]
+}
