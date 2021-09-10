@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+.container{
+    width: 1000px;
+    height: 100%;
+    margin: 0 auto;
+}
+.wrapper{
+    width: 1400px;
+    min-height: 100vh;
+}
+
+.currentUser{
+
+    width: 500px;
+    height: 500px;
+}
